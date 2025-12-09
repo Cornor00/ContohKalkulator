@@ -1,11 +1,11 @@
 # Project
 # Contoh-Kalkulator
-Dibuat Guna Untuk Memenuhi Tugas Mata Kuliah Teknologi Informatika Karena Menjadi Salah Satu Syarat Untuk Memenuhi Nilai Project dan Nilai UAS.
+cout << "Dibuat Guna Untuk Memenuhi Tugas Mata Kuliah Teknologi Informatika Karena Menjadi Salah Satu Syarat Untuk Memenuhi Nilai Project dan Nilai UAS."\n << endl; 
 
 Diampu Oleh : 
 
 Dr.Ir. Janner Simarmata,S.T.,M.Kom.
-cout << endl;
+
 Tansa Trisna Astono Putri,S.Kom.,M.T.I.,Ph.d. 
 
 Project : [Project.zip](https://github.com/user-attachments/files/24060309/Project.zip)
