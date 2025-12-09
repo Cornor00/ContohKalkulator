@@ -1,6 +1,6 @@
 # Project
 # Contoh-Kalkulator
-cout << "Dibuat Guna Untuk Memenuhi Tugas Mata Kuliah Teknologi Informatika Karena Menjadi Salah Satu Syarat Untuk Memenuhi Nilai Project dan Nilai UAS."\n << endl; 
+Dibuat Guna Untuk Memenuhi Tugas Mata Kuliah Teknologi Informatika Karena Menjadi Salah Satu Syarat Untuk Memenuhi Nilai Project dan Nilai UAS.
 
 Diampu Oleh : 
 
